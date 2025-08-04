@@ -17,4 +17,5 @@ int main()
     scanf("%d", &num);
 
     Sum_of_N(num);
+    return 0;
 }
